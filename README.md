@@ -1,2 +1,2 @@
-# Tario-2D-spel-
+# Tario
 Mario fast med T
